@@ -1,18 +1,15 @@
 # Project Title & Description
--------------
 
 Node application using [Passport](http://www.passportjs.org/) Authentication middleware.
 It uses Passport Local Strategy to authenticate user against the username and password stored in mongodb.
 This project includes the registration page, login page and logout functionality.
 
-Prerequisites
--------------
+## Prerequisites
 
 - [Node.js 6.11+](http://nodejs.org)
 - [MongoDB](https://www.mongodb.org/downloads)
 
 ## Quick Start and Installation
--------------
 
 The easiest way to get started is to clone the repository:
 
